@@ -1,3 +1,2 @@
-# MentorAccountSetup1
-
-Desktop (Mentor Account Set Up Page 1)
+# HNG6.0
+This is for frontend of HNG6.0 project
